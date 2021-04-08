@@ -1,0 +1,8 @@
+======== Arrays e tipos Genericos =======
+> declarando arrays
+	tipo[] nome = new tipo[tamanho];
+	ex: int[] idades = new int[10];
+- quando inicializamos um array
+- as suas possições receberão um valor padrão dependendo so seu tipo
+- os array só podem se de um tipo expecifico
+

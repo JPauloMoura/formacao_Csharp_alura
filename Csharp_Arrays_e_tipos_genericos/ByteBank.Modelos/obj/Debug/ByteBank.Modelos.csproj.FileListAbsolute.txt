@@ -1,0 +1,14 @@
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Csharp_Arrays_e_tipos_genericos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Csharp_Arrays_e_tipos_genericos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Csharp_Arrays_e_tipos_genericos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Csharp_Arrays_e_tipos_genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Csharp_Arrays_e_tipos_genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Csharp_Arrays_e_tipos_genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Csharp_Arrays_e_tipos_genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

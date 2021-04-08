@@ -1,0 +1,107 @@
+============ MANIPULAÇÃO DE STRING
+
+> Substring
+	retorna o texto apartir de um indice
+	"texto".Substring(2); // "xto"
+
+> IndexOf
+	retorna o indice de um caracter
+	"texto exemplo".IndexOf("m") // 9
+
+> IsNullOrEmpty
+	retorna se um texto é nulo ou vazio
+	String.IsNullOrEmpty(null) // True
+	String.IsNullOrEmpty("") // True
+OBS: 
+string -> metodo statico/ palavra rezervada
+String -> classe
+
+> Remove
+	remover parte de uma string aparti do seu indice
+	"texto.com.br".Remove(5) // "texto"
+	remover uma qtd de char aparte de um indice:
+	"texto.com".Remove(0, 6) // "com"
+
+> Replace
+	troca um char por outro
+	"balão".Replace('b', 's'); // "salão"
+
+> ToUpper
+	transforma o texto em caixa alta
+	"bom dia".ToUpper(); //"BOM DIA"
+
+> ToLower
+	transforma o texto em caixa baixa
+	"MAMAMIA".ToUpper(); //"mamamia"
+
+> StartsWith
+	verificar ser uma string começa com outra
+	"google.com.br".StartsWith("google"); // true
+	"Google.com.br".StartsWith("google"); // false
+
+> EndsWith
+	verificar ser uma string termina com outra
+	"google.com.br".EndsWith("br"); // true
+	"Google.com.br".EndsWith(".com.bs"); // false
+
+> Contains
+	verificar ser uma string contem outra
+	"google.com.br".Contains("br"); // true
+	"Google.com.br".Contains("www"); // false
+
+-------------- REGEX ---------------
+> Regex.IsMatch
+	retorna um bool para um tesxto que possui um padrão de caracters
+	Ex:
+	string mask = "[abdc][123][-][123]"
+	Regex.IsMatch("teste1 b2-1", mask) // true
+	Regex.IsMatch("teste2 a3-3", mask) // true
+	Regex.IsMatch("teste3 a1-4", mask) // false
+
+> Regex.Match
+	retorna o texto de uma string que condis com o padrão
+	Ex:
+	string mask = "[abdc][123][-][123]"
+	Match resul = Regex.Match("teste1 b2-1", mask)
+	result.Value // "b2-1"
+
+> Quantificadores
+	[0123456789] -> [0-9]
+	[abcdefghijklmnopqrstuvwxyz] -> [a-z]
+	[0-9][0-9][0-9][0-9] -> [0-9]{4} //significa que o padrão se repete 4x
+	[0-9]{2,9} //significa que o padrão pode se repetir 2 ate 9x
+
+	? -> 0-1
+	+ -> 1-N
+	* -> 0-N
+
+	ex:
+	[0-9]{3}.?[0-9]{3}.?[0-9]{3}.?-?[0-9]{2} // cpf
+	071.365.893-20 || 07136589320 || 071365893-20
+
+> Tipo object
+	todas as classes herdam dela
+
+> ToString -> virtual
+	retorna uma cadeia de caracter que representa o objeto
+
+> Equals
+	compara se um objeto é igual a outro
+	conta.Equals(conta); // true
+	mas faça a sobrescrita desse metodo para melhores resultados
+
+> GetHashCode -> virtual
+	retorna um hash numerico
+	conta.GetHashCode(); //46104728	
+
+- Como foi visto mertodos virtuais permitem a reescrita (override)
+
+> Usando template string
+	$"Bom dia {nome}!"
+
+> Conversão
+	Cliente cliente = (Cliente)obj; //em caso de falha retorna uma exceção
+        Cliente cliente = obj as Cliente; //em caso de falha retorna null
+
+
+
