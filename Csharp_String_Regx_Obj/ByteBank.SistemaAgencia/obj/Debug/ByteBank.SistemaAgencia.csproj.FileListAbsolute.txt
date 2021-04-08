@@ -1,0 +1,11 @@
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_String_Regx_Obj\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
