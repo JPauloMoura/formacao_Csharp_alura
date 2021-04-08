@@ -1,0 +1,26 @@
+==== Tipo de Dados
+
+-> new DateTime()
+	utilize as setas p/ cima e pra baixo para altera os construtores
+	usado para representa datas
+-> DateTime.Now;
+	retorna a data atual (dd/mm/aaa hh:mm:ss)
+-> TimeSpan
+	usado para representar intevalo de data
+	podemos usa-la para calcular datas
+	um obj desse tipo tem varios atributos de manipulação
+	ex: obj.Days //retorna a quantidade de dias
+
+-> Humanizer | biblioteca para manipulação de datas
+	TimeStanHumanizeExtensions.Humanize(valor tipo TimeSpan)
+	//retorna uma msg humanizada ex:. "1 dia", "2 semanas", "12 meses"
+
+-> www.nuget.org
+	gerenciador de pacotes de c#
+	podemos instalar dependencias atraves do Nuget:
+	Ferramentas > Gerenciador de Pacotes do NuGet > Console do Gerenciados de Pacotes
+	agora basta colar o codigo de estalação Ex:
+	  Install-Package Humanizer -Version 2.3.3
+	quando o console for aberto fique atento a qual projeto sera instalado essa dependencia
+	
+	

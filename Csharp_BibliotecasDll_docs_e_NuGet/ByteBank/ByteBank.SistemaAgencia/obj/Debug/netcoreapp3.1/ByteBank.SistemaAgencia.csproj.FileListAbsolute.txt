@@ -1,0 +1,16 @@
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.AssemblyInfoInputs.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.AssemblyInfo.cs
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.exe
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.deps.json
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.runtimeconfig.json
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.runtimeconfig.dev.json
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.Modelos.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.Modelos.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.dll
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.pdb
+C:\Users\jmoura\Documents\Projetos\Alura_cursos\Cshap_BibliotecasDll_docs_e_NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBank.SistemaAgencia.genruntimeconfig.cache
